@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1% 7%;
+    font-size: calc(10px + 2vmin);
+    background-color: gray;
+  }
+  .logo {
+    width: 90px;
+    height: 90px;
+  }
+  a {
+      text-decoration: none;
+      margin-left: 20px;
+      color: white;
+  }
+  .dugme {
+      border: 1px solid white;
+      padding: 10px 14px;
+      background-color: whitesmoke;
+      border-radius: 8px;
+  }

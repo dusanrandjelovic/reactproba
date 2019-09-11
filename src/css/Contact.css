@@ -1,0 +1,25 @@
+.pozadinacontact {
+    background-image: url("../Slike/fog.jpg");
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    height: 100vh;
+    padding: 3% 0;
+    text-align: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+label {
+    margin: 12px 0;
+}
+input {
+    padding: 6px;
+}
+textarea {
+    height: 80px;
+}
